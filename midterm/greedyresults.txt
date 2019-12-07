@@ -1,0 +1,8 @@
+Motif: ETS_ETS1_K562_encode-Myers_seq_hsa_v041610.1_AlignACE_1
+Covered by motif: 3324
+Coverage: 3324/4651
+
+Motif: ETS_GABPA_H1-hESC_encode-Myers_seq_hsa_MEME_3
+Covered by motif: 751
+Coverage: 4075/4651
+
